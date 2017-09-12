@@ -1,0 +1,5 @@
+To run this code, CUDA libraries has to be exported via LD_, and DYLD_LIBRARY_PATH,
+or at least this is what documentation says.
+
+To run this code: set working directory to where your CUDA libs are for me it's
+/Developer/NVIDIA/CUDA-8.0/lib
